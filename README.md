@@ -3,6 +3,8 @@ vue-two-stage-button
 
 Two Stage Button Component
 
+🚧🚧🚧 WORK IN PROGRESS 🚧🚧🚧
+
 
 
 ## Installation
@@ -10,12 +12,12 @@ Two Stage Button Component
 ### npm
 
 ``` sh
-npm install --save vue-picture-input
+npm install --save vue-two-stage-button
 ```
 ### yarn
 
 ``` sh
-yarn add vue-picture-input
+yarn add vue-two-stage-button
 ```
 
 ## Usage
