@@ -1,0 +1,29 @@
+{
+  "name": "vue-two-stage-button",
+  "version": "0.1.0",
+  "description": "Two stage button component",
+  "main": "TwoStageButton.vue",
+  "scripts": {
+    "test": "npm run unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessiomaffeis/vue-two-stage-button.git"
+  },
+  "keywords": [
+    "VueJs",
+    "button",
+    "two",
+    "stage",
+    "input",
+    "form",
+    "upload",
+    "confirm"
+  ],
+  "author": "alessio@maffe.is",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alessiomaffeis/vue-two-stage-button/issues"
+  },
+  "homepage": "https://github.com/alessiomaffeis/vue-two-stage-button"
+}
